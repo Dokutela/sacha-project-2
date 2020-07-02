@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www",
-    "test" : "echo \"Error: no test sepecfiied \" && exit 1"
+    "start": "nodemon ./bin/www"
+    /* "test" : "echo \"Error: no test sepecfiied \" && exit 1" */
   },
   "author": "satyam sharma <satyamskillz@gmail.com>",
   "license": "MIT",
-
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
